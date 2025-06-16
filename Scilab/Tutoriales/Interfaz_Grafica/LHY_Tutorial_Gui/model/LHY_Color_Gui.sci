@@ -344,3 +344,4 @@ function updateFields(param, sim)
 		end
 	end
 endfunction
+LHY_Gui_Color();
